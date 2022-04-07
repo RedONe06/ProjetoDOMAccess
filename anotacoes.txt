@@ -1,0 +1,6 @@
+var é global -- metodo reconhece declarado fora
+let é de escopo -- metodo só reconhece demtro
+const é constante
+
+função no javascript n precisa definir saida
+function nomeFuncao(){}
